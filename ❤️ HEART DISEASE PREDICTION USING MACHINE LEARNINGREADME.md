@@ -1,4 +1,4 @@
- Task 3: Heart Disease Prediction using Machine Learning
+TASK 3:HEART DISEASE PREDICTION USING MACHINE LEARNING
 
 📌 Objective
 The objective of this project is to build a machine learning classification model that predicts whether a person is at risk of heart disease based on medical and health-related attributes. The model uses patient data to classify outcomes as **presence or absence of heart disease**.
